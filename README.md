@@ -27,6 +27,7 @@ git checkout -b branch-name
 * Add this to the CONTRIBUTORS.md file
 ```markdown
 <td align="center"><a href="https://github.com/Purusottamdas"><img src="https://avatars0.githubusercontent.com/u/71095077?s=400&u=ade4e2da78b0f6a2f71d3407e1f24e119729c41f&v=4;" alt=""/><br /><sub><b>Purusottamdas</b></sub></a><br /></td>
+
 ```
 * push the changes.
 ```markdown
