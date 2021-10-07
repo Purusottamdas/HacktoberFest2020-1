@@ -36,5 +36,7 @@ git push origin brach-name
 ```
 * Make a pull request.
 
+That is for today guys, hope you will find this useful
+
 
 Checkout [The Wall Of Contributions](https://github.com/Rishikesh-12/HacktoberFest2020/blob/master/CONTRIBUTORS.md)
