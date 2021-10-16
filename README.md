@@ -1,4 +1,4 @@
-# HacktoberFest2020
+# HacktoberFest2021
 #### Contribute to hacktoberfest 2020
 
 ### Welcome to HacktoberFest 2020 Public Repository.
@@ -26,7 +26,7 @@ git checkout -b branch-name
 * Make change in the repository with the new branch.
 * Add this to the CONTRIBUTORS.md file
 ```markdown
-<td align="center"><a href="YOUR_WEBSITE"><img src="YOUR_PICTURE" width="100px;" alt=""/><br /><sub><b>Your NAME</b></sub></a><br /></td>
+<td align="center"><a href="YOUR_WEBSITE"><img src="YOUR_PICTURE" width="120px;" alt=""/><br /><sub><b>Your NAME</b></sub></a><br /></td>
 ```
 * push the changes.
 ```markdown
@@ -37,4 +37,4 @@ git push origin brach-name
 * Make a pull request.
 
 
-Checkout [The Wall Of Contributions](https://github.com/Rishikesh-12/HacktoberFest2020/blob/master/CONTRIBUTORS.md)
+Checkout)) [The Wall Of Contributions](https://github.com/Rishikesh-12/HacktoberFest2020/blob/master/CONTRIBUTORS.md)
