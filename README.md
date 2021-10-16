@@ -1,4 +1,4 @@
-# HacktoberFest2020
+# HacktoberFest2020 
 #### Contribute to hacktoberfest 2020
 
 ### Welcome to HacktoberFest 2020 Public Repository.
@@ -34,7 +34,7 @@ git add .
 git commit -m "Your commit Message"
 git push origin brach-name
 ```
-* Make a pull request.
+* Make a pull requests.
 
 
 Checkout [The Wall Of Contributions](https://github.com/Rishikesh-12/HacktoberFest2020/blob/master/CONTRIBUTORS.md)
