@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Calculator {
 
-    public static void main(String[] args) {
+    public static int main(String[] args) {
 
         Scanner reader = new Scanner(System.in);
         System.out.print("Enter two numbers: ");
@@ -12,7 +12,7 @@ public class Calculator {
         double first = reader.nextDouble();
         //double second = reader.nextDouble();
 
-        System.out.print("Enter an operator (+, -, *, /): ");
+        System.out.print("Enter any operator (+, -, *, /): ");
         char operator = reader.next().charAt(0);
 
         double result;
