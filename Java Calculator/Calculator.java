@@ -10,12 +10,12 @@ public class Calculator {
         System.out.print("Enter two numbers: ");
 
         double first = reader.nextDouble();
-        //double second = reader.nextDouble();
+        double second = reader.nextDouble();
 
         System.out.print("Enter an operator (+, -, *, /): ");
         char operator = reader.next().charAt(0);
 
-        double result;
+        double result=0;
 
         switch(operator)
         {
@@ -29,7 +29,7 @@ public class Calculator {
 
             case '*':
                 result = first * second;
-                //break;
+                 break;
 
             case '/':
                 result = first / second;
